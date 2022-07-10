@@ -1,3 +1,2 @@
 Git file1
 new line
-feature
